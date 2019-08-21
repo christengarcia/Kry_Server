@@ -1,0 +1,52 @@
+# Gradle generated files
+.gradle/
+build/
+
+# HSQLDB Database files
+server/src/main/resources/db/
+
+# IntelliJ generated files
+.idea/
+*.iml
+
+.settings/
+
+# VS code generated files
+.vscode/
+
+# Eclipse generated files
+.project
+.classpath
+
+# Emacs backup files
+*~
+
+# Java generated files
+*.class
+*.log
+out/
+
+# OS X generated files
+.DS_Store
+
+# Windows generated files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Linux generated files
+.directory
+.Trash-*
+.fuse_hidden*
+
+# Gradle wrapper files
+gradlew
+gradlew.bat
+gradle/
+
+client/out/
+
+
+.clover/
+vim.exe.stackdump
+*.stackdump
